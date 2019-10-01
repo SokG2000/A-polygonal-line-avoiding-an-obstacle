@@ -54,13 +54,6 @@ std::vector<Vector> segment_avoidance(const Vector& start1, const Vector& finish
             res.push_back(find_lines_intersection(start2, finish2, p1, p2));
         }
     }
-/*
-    cout << "new_way: ";
-    for (int i = 0; i < res.size(); i++) {
-        cout << res[i] << ' ';
-    }
-    cout << '\n';
-*/
     return res;
 }
 
