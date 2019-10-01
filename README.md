@@ -10,5 +10,5 @@ The program illustrates the fact that a tree does not separate the plane (or a s
 which is the main ingredient for the Euler inequality. 
 
 https://github.com/mmilunovic/Shortest-path-among-polygons this program builds a shortest path between two point,
-avoiding obstacles that are a set of disjoined simple polygons. It solve more difficult problem in better time,
+avoiding obstacles that are a set of disjoined simple polygons. It solve more difficult problem in near equal time,
 but it uses more complicated algorithms based on visibility graphs.
