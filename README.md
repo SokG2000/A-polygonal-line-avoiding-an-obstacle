@@ -5,7 +5,7 @@ The program does not use any complex algorithms. It builds a polygonal line that
 where n is the number of vertexes in given polygonal line.
 
 This program was prepared in frame of the course `Discrete structures and lgorithms in topology' 
-in Moscow Institute of Physics and Technology [hyperref]. 
+in Moscow Institute of Physics and Technology. Website of the course: https://www.mccme.ru/circles/oim/home/combtop13.htm. 
 The program illustrates the fact that a tree does not separate the plane (or a surface), 
 which is the main ingredient for the Euler inequality. 
 
